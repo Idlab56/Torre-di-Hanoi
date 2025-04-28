@@ -1,3 +1,3 @@
 # Torre-di-Hanoi
 
-aggiungi listener
+aggiunti listener
